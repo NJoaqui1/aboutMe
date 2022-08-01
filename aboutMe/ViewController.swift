@@ -4,7 +4,7 @@
 //
 //  Created by Scholar on 7/27/22.
 //
-
+// Nayeliiii
 import UIKit
 
 class ViewController: UIViewController {
@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var factTwo: UITextField!
     @IBOutlet weak var factThree: UITextField!
     @IBOutlet weak var factFour: UIImageView!
-    
+    //hey
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
